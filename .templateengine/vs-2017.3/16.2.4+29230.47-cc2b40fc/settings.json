@@ -1,0 +1,242 @@
+{
+  "Version": "1.0.0.2",
+  "MountPoints": [
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "90098ac9-dc39-4b3a-92a3-9e558e7b4dd2",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.itemtemplates.1.0.0-beta3-20171117-314.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "ad6c09d9-2d1e-4afa-aac0-646b3a38e10b",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.projecttemplates.2.0.1.0.0-beta3-20171117-314.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "10b8cda2-aa6c-4aae-84c7-85be11f5ac52",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.test.projecttemplates.2.0.1.0.2-beta3-20180408-1569068.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "a6932074-43bb-4ba4-b967-ea0812f7a981",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.itemtemplates.2.0.9.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "88dca5d4-74cf-43f7-a04c-ea3646d2312a",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.projecttemplates.2.0.2.0.9.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "3ab2f2a2-ee69-44b9-9564-d7baca31109d",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.spa.projecttemplates.2.0.9.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "8f1cdf52-e95e-49d5-9890-c1166c34fc95",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.itemtemplates.1.0.2-beta3.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "988e0f8c-348d-48f1-bcf5-e7aec925c9ed",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.projecttemplates.2.1.1.0.2-beta3.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "db67e62a-326b-4176-b1e3-d658456a3489",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.test.projecttemplates.2.1.1.0.2-beta4-20181009-2100240.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "2fdca7db-634e-4701-8ca5-5e6c0ee0e2c0",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.itemtemplates.2.1.12.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "c7d01bce-ed00-4719-b86c-248cacd7768b",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.projecttemplates.2.1.2.1.12.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "a6533f7f-9341-4384-a790-ceca21014a3c",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.spa.projecttemplates.2.1.12.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "c0d1bd85-362e-4d9f-b1d3-d19bfd75a6ee",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\nunit3.dotnetnew.template.1.5.3.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "9dff317f-b07f-4fc0-b906-961bd7d04b04",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.itemtemplates.1.0.2-beta4.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "0cc9de40-4587-4f5f-8401-228ff186e7a0",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.common.projecttemplates.2.2.1.0.2-beta4.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "046b527d-2397-4688-a05d-9fc294301bad",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.test.projecttemplates.2.2.1.0.2-beta4-20181021-2140732.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "b95b12cb-abc6-4985-a892-120e99edc5ff",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.itemtemplates.2.2.5.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "d0b7655f-2fec-4035-8266-8052ddd8b382",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.projecttemplates.2.2.2.2.5.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "0d13c968-4c29-4052-a0d8-fecce3401f6a",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\microsoft.dotnet.web.spa.projecttemplates.2.2.5.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "56e60b81-aace-4740-b055-65c5f349ba51",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\nunit3.dotnetnew.template.1.6.0.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "a42324e3-2bd4-4b99-94b2-4aa5baf0a2ae",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Microsoft.Azure.WebJobs.CSharp.16.2.10-gd5ec59b955.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "6e9bfa30-abfa-4de0-86df-afeafa801361",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Microsoft.Azure.WebJobs.VisualBasic.16.2.10-gd5ec59b955.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "a55ab43d-898e-4b64-898e-f7a11f6dfbac",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Microsoft.DotNet.Common.ProjectTemplates.1.x.1.0.0.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "0bf29d70-809f-420d-a8fb-e3105529be0d",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Microsoft.DotNet.Test.ProjectTemplates.1.x.1.0.0.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "399b6bfa-a6d4-4db3-8a75-9c731cf17321",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Xamarin.Templates.Android.16.3.117.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "2a482526-19b4-41da-a30d-34993aa12cfc",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Xamarin.Templates.IOS.16.3.117.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "6c9ca008-1b8a-44f2-910e-cbeb4d20991a",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Xamarin.Templates.Multiplatform.16.3.117.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "bc8c5a82-d97a-4261-a671-74677edc74e0",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Xamarin.Templates.TVOS.16.3.117.nupkg"
+    },
+    {
+      "ParentMountPointId": "00000000-0000-0000-0000-000000000000",
+      "MountPointFactoryId": "94e92610-cf4c-4f6d-aeb6-9e42dde1899d",
+      "MountPointId": "54ec9a82-f62e-4e9a-a987-9331b887e2a0",
+      "Place": "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\packages\\Xamarin.Templates.WATCHOS.16.3.117.nupkg"
+    }
+  ],
+  "ComponentGuidToAssemblyQualifiedName": {
+    "0c434df7-e2cb-4dee-b216-d7c58c8eb4b3": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.RunnableProjectGenerator, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "10919118-4e13-4fa9-825c-3b4da855578e": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.CaseChangeMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "11c6eacf-8d24-42fd-8fc6-84063fcd8f14": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.CoalesceMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "370996fe-2943-4aed-b2f6-ec03f0b75b4a": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.ConstantMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "bb625f71-6404-4550-98af-b2e546f46c5f": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.EvaluateMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "d49b3690-b1e5-410f-a260-e1d7e873d8b2": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.GeneratePortNumberMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "10919008-4e13-4fa8-825c-3b4da855578e": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.GuidMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "f2b423d7-3c23-4489-816a-41d8d2a98596": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.NowMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "642e0443-f82b-4a4b-a797-cc1eb42221ae": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.ProcessValueFormMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "011e8dc1-8544-4360-9b40-65fd916049b7": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.RandomMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "8a4d4937-e23f-426d-8398-3bdbd1873adb": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.RegexMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "aa5957b0-07b1-4b68-847f-83713973e86f": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.RegexMatchMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "b57d64e0-9b4f-4abe-9366-711170fd5294": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.SwitchMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "3147965a-08e5-4523-b869-02c8e9a8aaa1": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.BalancedNestingConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "3e8bcbf0-d631-45ba-a12d-fbf1de03aa38": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.ConditionalConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "a1e27a4b-9608-47f1-b3b8-f70df62dc521": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.FlagsConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "3fae1942-7257-4247-b44d-2dde07cb4a4a": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.IncludeConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "3d33b3bf-f40e-43eb-a14d-f40516f880cd": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.RegionConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60",
+    "62db7f1f-a10e-46f0-953f-a28a03a81cd1": "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.ReplacementConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60"
+  },
+  "ProbingPaths": [
+    "C:\\Users\\Ebuka Nwachukwu\\.templateengine\\vs-2017.3\\16.2.4+29230.47-cc2b40fc\\content"
+  ],
+  "ComponentTypeToGuidList": {
+    "Microsoft.TemplateEngine.Abstractions.IGenerator, Microsoft.TemplateEngine.Abstractions, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60": [
+      "0c434df7-e2cb-4dee-b216-d7c58c8eb4b3"
+    ],
+    "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.IMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60": [
+      "10919118-4e13-4fa9-825c-3b4da855578e",
+      "11c6eacf-8d24-42fd-8fc6-84063fcd8f14",
+      "370996fe-2943-4aed-b2f6-ec03f0b75b4a",
+      "bb625f71-6404-4550-98af-b2e546f46c5f",
+      "d49b3690-b1e5-410f-a260-e1d7e873d8b2",
+      "10919008-4e13-4fa8-825c-3b4da855578e",
+      "f2b423d7-3c23-4489-816a-41d8d2a98596",
+      "642e0443-f82b-4a4b-a797-cc1eb42221ae",
+      "011e8dc1-8544-4360-9b40-65fd916049b7",
+      "8a4d4937-e23f-426d-8398-3bdbd1873adb",
+      "aa5957b0-07b1-4b68-847f-83713973e86f",
+      "b57d64e0-9b4f-4abe-9366-711170fd5294"
+    ],
+    "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Macros.IDeferredMacro, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60": [
+      "10919118-4e13-4fa9-825c-3b4da855578e",
+      "11c6eacf-8d24-42fd-8fc6-84063fcd8f14",
+      "370996fe-2943-4aed-b2f6-ec03f0b75b4a",
+      "d49b3690-b1e5-410f-a260-e1d7e873d8b2",
+      "10919008-4e13-4fa8-825c-3b4da855578e",
+      "f2b423d7-3c23-4489-816a-41d8d2a98596",
+      "011e8dc1-8544-4360-9b40-65fd916049b7",
+      "8a4d4937-e23f-426d-8398-3bdbd1873adb",
+      "aa5957b0-07b1-4b68-847f-83713973e86f",
+      "b57d64e0-9b4f-4abe-9366-711170fd5294"
+    ],
+    "Microsoft.TemplateEngine.Orchestrator.RunnableProjects.Config.IOperationConfig, Microsoft.TemplateEngine.Orchestrator.RunnableProjects, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60": [
+      "3147965a-08e5-4523-b869-02c8e9a8aaa1",
+      "3e8bcbf0-d631-45ba-a12d-fbf1de03aa38",
+      "a1e27a4b-9608-47f1-b3b8-f70df62dc521",
+      "3fae1942-7257-4247-b44d-2dde07cb4a4a",
+      "3d33b3bf-f40e-43eb-a14d-f40516f880cd",
+      "62db7f1f-a10e-46f0-953f-a28a03a81cd1"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\AnyLogic 7 University" version="1.8.0_66">
+<bootpath>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\jfr.jar"/>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\AnyLogic 7 University\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

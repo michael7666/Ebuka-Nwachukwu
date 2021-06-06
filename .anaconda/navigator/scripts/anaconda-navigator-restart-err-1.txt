@@ -1,0 +1,35 @@
+C:\ProgramData\Anaconda3\lib\site-packages\anaconda_navigator\api\conda_api.py:1364: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f)
+2019-09-12 12:11:26,985 - ERROR download_api._get_url:416
+HTTPSConnectionPool(host='update.code.visualstudio.com', port=443): Max retries exceeded with url: /api/update/win32-x64-user/stable/version (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BF51AC18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:18:47,685 - ERROR client_api._get_api_info:606
+HTTPSConnectionPool(host='api.anaconda.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BDD4A5C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:19:11,700 - ERROR download_api._download:229
+HTTPSConnectionPool(host='www.anaconda.com', port=443): Max retries exceeded with url: /api/events (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BC3D1B70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:19:11,700 - ERROR download_api._download:234
+Invalid url https://www.anaconda.com/api/events
+
+2019-09-12 18:19:20,132 - ERROR download_api._download:229
+HTTPSConnectionPool(host='www.anaconda.com', port=443): Max retries exceeded with url: /api/videos (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BF320B38>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:19:20,132 - ERROR download_api._download:234
+Invalid url https://www.anaconda.com/api/videos
+
+2019-09-12 18:19:26,858 - ERROR download_api._download:229
+HTTPSConnectionPool(host='www.anaconda.com', port=443): Max retries exceeded with url: /api/webinars (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BF3324A8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:19:26,859 - ERROR download_api._download:234
+Invalid url https://www.anaconda.com/api/webinars
+
+2019-09-12 18:19:28,912 - ERROR download_api._download:229
+HTTPSConnectionPool(host='repo.anaconda.com', port=443): Max retries exceeded with url: /pkgs/metadata.json (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BDD9B358>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+2019-09-12 18:19:28,912 - ERROR download_api._download:234
+Invalid url https://repo.anaconda.com/pkgs/metadata.json
+
+2019-09-12 18:21:07,884 - ERROR download_api._get_url:416
+HTTPSConnectionPool(host='update.code.visualstudio.com', port=443): Max retries exceeded with url: /api/update/win32-x64-user/stable/version (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x00000254BF3965F8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+

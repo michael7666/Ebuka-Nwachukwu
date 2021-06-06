@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Agent actions|AgentActionsSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.EoMainSection">
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.AdditionalGeneralSection">
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.NameSection">
+	</section>
+	<section name="Position and size|PositionAndSizeSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Points|PointsSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Dependencies|ModelDependenciesSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Advanced|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Agent in flowcharts|AdvancedActionsSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Car|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Space and network|SpaceNetworkSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Numerical methods|NumericalMethodsSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Appearance|ShapeLineColorSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Description|DescriptionSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Advanced|AdvancedSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.old.ParametersRenderingSection">
+	</section>
+	<section name="Actions|ParametersRenderingSection">
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="com.anylogic.properties.sections.expandable.GeneralSection">
+	</section>
+	<section name="Movement|MovementParametersSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+	<section name="Advanced Java|ProgrammingSection">
+		<item value="true" key="Collapsed"/>
+		<section name="CollapsedTypes">
+		</section>
+	</section>
+</section>
