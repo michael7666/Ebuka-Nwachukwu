@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ElectronNET.CLI/5.22.12": {
+        "type": "package"
+      }
+    },
+    ".NETCoreApp,Version=v2.1/any": {
+      "ElectronNET.CLI/5.22.12": {
+        "type": "package",
+        "tools": {
+          "tools/netcoreapp2.1/any/DotnetToolSettings.xml": {},
+          "tools/netcoreapp2.1/any/electronize.deps.json": {},
+          "tools/netcoreapp2.1/any/electronize.dll": {},
+          "tools/netcoreapp2.1/any/electronize.pdb": {},
+          "tools/netcoreapp2.1/any/electronize.runtimeconfig.json": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectronNET.CLI/5.22.12": {
+      "sha512": "vDw6JxC1nyCr+mNvsYFp1VtkbTnepnuArqxor9aJsHP2ZpIZCSn1rgqOuRpl0q86Eq+BWhnuEC515bHCrzGfjg==",
+      "type": "package",
+      "path": "electronnet.cli/5.22.12",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "electronnet.cli.5.22.12.nupkg.sha512",
+        "electronnet.cli.nuspec",
+        "tools/netcoreapp2.1/any/DotnetToolSettings.xml",
+        "tools/netcoreapp2.1/any/electronize.deps.json",
+        "tools/netcoreapp2.1/any/electronize.dll",
+        "tools/netcoreapp2.1/any/electronize.pdb",
+        "tools/netcoreapp2.1/any/electronize.runtimeconfig.json"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v2.1": [
+      "electronnet.cli"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Ebuka Nwachukwu\\.dotnet\\tools\\.store\\.stage\\jw4ytqp2.d0e": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Ebuka Nwachukwu\\AppData\\Local\\Temp\\thomxspv.aj4\\restore.csproj",
+      "projectName": "restore",
+      "projectPath": "C:\\Users\\Ebuka Nwachukwu\\AppData\\Local\\Temp\\thomxspv.aj4\\restore.csproj",
+      "packagesPath": "C:\\Users\\Ebuka Nwachukwu\\.dotnet\\tools\\.store\\.stage\\jw4ytqp2.d0e",
+      "outputPath": "C:\\Users\\Ebuka Nwachukwu\\.dotnet\\tools\\.store\\.stage\\jw4ytqp2.d0e\\",
+      "projectStyle": "DotnetToolReference",
+      "configFilePaths": [
+        "C:\\Users\\Ebuka Nwachukwu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "dependencies": {
+          "electronnet.cli": {
+            "target": "Package",
+            "version": "(, )"
+          }
+        },
+        "imports": [
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    },
+    "runtimes": {
+      "any": {
+        "#import": []
+      }
+    }
+  }
+}

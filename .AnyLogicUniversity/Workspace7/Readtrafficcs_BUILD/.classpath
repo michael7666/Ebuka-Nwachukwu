@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.engine_7.3.0.201602191418/com.anylogic.engine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.help_7.3.0.201602191418.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.engine_7.3.0.201602191418/com.anylogic.engine.al3d.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.help_7.3.0.201602191418.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.engine_7.3.0.201602191418/com.anylogic.engine.resources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.help_7.3.0.201602191418.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.engine_7.3.0.201602191418/com.anylogic.engine.nl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.help_7.3.0.201602191418.jar!/html/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="OPTIMIZER_LIB"/>
+	<classpathentry kind="var" path="HSQLDB_LIB"/>
+	<classpathentry kind="var" path="JAR_LIB_1"/>
+	<classpathentry kind="var" path="JAR_LIB_2"/>
+	<classpathentry kind="var" path="JAR_LIB_3"/>
+	<classpathentry kind="var" path="MS_LIB"/>
+	<classpathentry kind="src" path="src.generated"/>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.road_traffic_library_7.3.0.201602191418/lib/RoadTrafficLibrary.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/AnyLogic%207%20University/plugins/com.anylogic.road_traffic_library_7.3.0.201602191418/lib/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Program Files/AnyLogic 7 University/plugins/com.anylogic.process_modeling_library_7.3.0.201602191418/lib/ProcessModelingLibrary.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Program%20Files/AnyLogic%207%20University/plugins/com.anylogic.process_modeling_library_7.3.0.201602191418/lib/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
